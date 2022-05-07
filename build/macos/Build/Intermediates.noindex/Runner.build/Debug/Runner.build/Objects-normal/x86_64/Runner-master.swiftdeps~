@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1651933585, 67697048]
+build_end_time: [1651933589, 488811969]
+inputs:
+  "/Users/blkkkbvsik/Documents/BlazingProject/macos/Flutter/GeneratedPluginRegistrant.swift": [1651933563, 43148040]
+  "/Users/blkkkbvsik/Documents/BlazingProject/macos/Runner/AppDelegate.swift": [1631284926, 502894401]
+  "/Users/blkkkbvsik/Documents/BlazingProject/macos/Runner/MainFlutterWindow.swift": [1631284926, 505003690]

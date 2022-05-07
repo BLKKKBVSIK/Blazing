@@ -1,0 +1,51 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "BlazingProject",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "BlazingProject (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "BlazingProject (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flame_steamworks",
+            "cwd": "dependencies/flame_steamworks",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flame_steamworks (profile mode)",
+            "cwd": "dependencies/flame_steamworks",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flame_steamworks (release mode)",
+            "cwd": "dependencies/flame_steamworks",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "steamworks",
+            "cwd": "dependencies/steamworks",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
